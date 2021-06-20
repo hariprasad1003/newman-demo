@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-flask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newman.js",
+  "scripts": {
+    "start": "node newman.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.2.3"
+  }
+}
